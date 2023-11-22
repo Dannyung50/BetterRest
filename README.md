@@ -24,8 +24,7 @@ To use BetterRest, follow these simple steps:
 1. **Clone the Repository**:
 
  ```
-$ https://github.com/Dannyung50/Guess-the-flag.git
-
+$ https://github.com/Dannyung50/BetterRest.git
 ```
 2. **Navigate to the Project Directory**
 
